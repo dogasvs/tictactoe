@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='container'>
       <header>
-        <img src="/public/img/tictactoelogo.svg" alt="" />
+        <img src="/img/tictactoelogo.svg" alt="" />
         <button className='turn'> <img src="/img/turn.svg" alt="" /> Turn</button>
         <button className='backItUp'> <img src="/img/Redo.svg" alt="" /> </button>
       </header>
